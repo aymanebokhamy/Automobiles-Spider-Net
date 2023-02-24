@@ -1,5 +1,5 @@
 # Automobiles-Spider-Net
-Graph based C program to manage a fleet of communicating automobiles from TXT files, 
+Graph based C program to manage a fleet of communicating automobiles from TXT files using an Adjacency List presentation, 
 including functions such as:
      - Display adjacent vehicles
      - Add a Vehicle
